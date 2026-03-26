@@ -15,6 +15,9 @@ If the optical source has a spectral width much greater than the signal bandwidt
 <img width="1482" height="1120" alt="image" src="https://github.com/user-attachments/assets/83f63473-b1b3-4afc-ad17-9e9850041cae" />
 
 
+## Block Diagram
+
+<img width="494" height="308" alt="image" src="https://github.com/user-attachments/assets/40c0cf17-6345-4c32-837f-90ffb93c0ab2" />
 ---
 
 ### Output Pulse Broadening
